@@ -1,2 +1,3 @@
 Hello MyRepo2 abc
-passwordpasswordpasswordpassword
+123456
+password
