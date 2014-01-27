@@ -1,5 +1,4 @@
 Hello MyRepo2 abc
 123456
 password
-7/15
-01/26
+
